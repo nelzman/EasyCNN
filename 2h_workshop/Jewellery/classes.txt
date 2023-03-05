@@ -1,0 +1,1 @@
+{'Bracelet': 0, 'Necklace': 1, 'Ring': 2}
