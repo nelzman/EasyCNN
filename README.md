@@ -1,9 +1,15 @@
-Anaconda muss installiert sein!!!
+# Easy-CNN
 
-Environment aufsetzen:
+A lightweight 1 day workshop where we have a look at computer vision with CNN
 
-1. In Ordner mit Img_Class.yml gehen
-2. Erzeuge Img_Class Environment in cmd mit: conda env create -f infrastructure/Img_Class.yml
-3. aktiviere Environment in cmd mit: conda activate Img_Class
-4. starte Jupyter Notebook in cmd mit: jupyter notebook (evtl. erst über Anaconda im Environment installieren)
-5. let the Magic happen
+Code Working, implemented in 2020, so it's a bit outdated.
+
+
+# How to run
+conda must be installed
+
+cmd:
+1. `conda env create -f infrastructure/Img_Class.yml3`
+2. `conda activate Img_Class`
+3. create kernel from Img_Class
+4. Run the notebook and let the Magic happen!
